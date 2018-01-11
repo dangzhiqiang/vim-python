@@ -1,5 +1,5 @@
 # vim-python
-为vim配置python自动补全和tab缩进自动转换为空格功能
+为vim配置python自动补全和tab缩进自动转换为空格等功能
 
 ## 说明
     文件 pydiction-1.2.3.zip 来自 http://www.vim.org/scripts/script.php?script_id=850
